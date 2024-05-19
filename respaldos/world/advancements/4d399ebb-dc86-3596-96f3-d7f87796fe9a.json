@@ -1,0 +1,147 @@
+{
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "goblinsanddungeons:goblinsanddungeons/root": {
+    "criteria": {
+      "tick": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "hmm:difficulty_hard": {
+    "criteria": {
+      "difficulty_hard": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "hmm:difficulty_medium": {
+    "criteria": {
+      "difficulty_medium": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "obscure_api:recipes/obscure_book": {
+    "criteria": {
+      "has_item": "2024-05-14 17:20:00 +0000"
+    },
+    "done": true
+  },
+  "bossominium:loot_bosses_a": {
+    "criteria": {
+      "loot_bosses_a": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "undead:undeadto": {
+    "criteria": {
+      "undeadto": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "hmm:hmm_advancements": {
+    "criteria": {
+      "hmm_advancements": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2024-05-14 17:20:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2024-05-14 17:20:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "dead_guys_untitled_deep_dark_:deep_dark": {
+    "criteria": {
+      "deep_dark": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "hmm:kill_monsters": {
+    "criteria": {
+      "kill_monsters": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "undead_expansion:undead_expansion": {
+    "criteria": {
+      "undead_expansion": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "hmm:difficulty_easy": {
+    "criteria": {
+      "difficulty_easy": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "undead_expansion:git_gud": {
+    "criteria": {
+      "git_gud": "2024-05-14 17:20:15 +0000"
+    },
+    "done": true
+  },
+  "majruszs_difficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2024-05-14 17:20:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:root": {
+    "criteria": {
+      "always": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-05-14 17:20:01 +0000"
+    },
+    "done": false
+  },
+  "the_arcaneum:the_arcaneum": {
+    "criteria": {
+      "the_arcaneum": "2024-05-14 17:20:01 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}
